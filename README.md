@@ -1,5 +1,7 @@
 # AI-ASSISTED IT PLACEMENT FINDER: STREAMLINING INDUSTRIAL TRAINING IN ABUJA, NIGERIA
 
+![al assistance](https://github.com/Engr-Daniel/AI-Assisted-IT-Placement-Finder-Using-OpenAI-API/assets/103637488/bfcd50c0-815b-46ad-9858-f7a3bdc5dea1)
+
 The project "AI-Assisted IT Placement Finder: Streamlining Student Industrial Training in Abuja, Nigeria" aims to streamline the process of finding suitable industrial training placements for students in Abuja, Nigeria. By harnessing the capabilities of OpenAI's language models, this project seeks to provide personalized recommendations tailored to students' courses, locations, and other preferences.
 
 ## AIM of the Project:
